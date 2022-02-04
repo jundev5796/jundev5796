@@ -1,4 +1,4 @@
-## "Big things have small beginnings."
+## "Greatness from Small Beginnings."
 
 Striving to be an outstanding software developer by taking small steps everyday.
 
