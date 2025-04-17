@@ -13,4 +13,4 @@ Striving to be an outstanding software developer by taking small steps everyday.
 
 ### Dev Tools
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
