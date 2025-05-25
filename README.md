@@ -1,6 +1,6 @@
 ## "Greatness From Small Beginnings."
 
-Striving to be an outstanding software developer by taking small steps everyday.
+Taking small steps everyday.
 
 ## Stack
 
